@@ -1,6 +1,9 @@
 # foundry_macros
-Some personal foundry vtt macros. AI used to create them. If you find something useful, copy/paste the javascript into a script macro in foundry, give it a name and then use it.
+Some personal foundry vtt macros. AI used to create them. 
+If you find something useful, copy/paste the javascript into a script macro in foundry, give it a name and then use it.
+
 If you find a bug or want more functionality, paste it into an LLM and ask it to change it. You're welcome to raise a report in github but doing it yourself will be quicker.
+
 If you don't like this use of AI, then don't use it.
 
 ### scene_difficulty_badge
